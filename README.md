@@ -1,4 +1,1 @@
-
-
-
 "# simple_calculator" 
